@@ -1,0 +1,23 @@
+body{
+ font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    background-color: #222731;
+}
+
+#title h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fd698e;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.btn-outline-secondary{
+    border-color: #fd698e;
+}
