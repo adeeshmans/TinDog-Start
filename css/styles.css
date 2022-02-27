@@ -125,7 +125,14 @@ p {
 }
 
 /* Pricing */
+#pricing{
+    padding:100px;
+    text-align: center;
+}
 
-.card {
-  
+.pricing-col{
+    padding:3% 2%;
+}
+.btn{
+    width:100%;
 }
